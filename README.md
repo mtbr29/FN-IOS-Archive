@@ -34,8 +34,8 @@ MP = MultiPlayer
 # season 11
 |Build name🔖 |download apk📝 |download manifest📋 |download build (.rar)📦 | apk modded for SP| apk modded for MP|
 |-----------|-----------|-----------|-----------|-----------|-----------|
-| Fortnite+Release-11.40-CL-11058555.ipa | [Download](https://github.com/mtbr29/FN-IOS-Archive/releases/download/release-Fortnite%2BRelease-11-40-CL-11058555-ipa-1749986516/Fortnite.Release-11.40-CL-11058555.ipa)  | N/A | N/A| N/A| N/A|
-| Fortnite+Release-11.40-CL-11109625.ipa | [Download](https://github.com/mtbr29/FN-IOS-Archive/releases/download/release-Fortnite%2BRelease-11-40-CL-11109625-ipa-1749986557/Fortnite.Release-11.40-CL-11109625.ipa)  | N/A | N/A| N/A| N/A|
+| Fortnite+Release-11.40-CL-11058555.ipa | [Download](https://github.com/mtbr29/FN-IOS-Archive/releases/download/release-Fortnite%2BRelease-11-40-CL-11058555-ipa-1749986516/Fortnite.Release-11.40-CL-11058555.ipa)  | zG5hYAFw9obHQzVuN0quYC_h1P4x4Q | N/A| N/A| N/A|
+| Fortnite+Release-11.40-CL-11109625.ipa | [Download](https://github.com/mtbr29/FN-IOS-Archive/releases/download/release-Fortnite%2BRelease-11-40-CL-11109625-ipa-1749986557/Fortnite.Release-11.40-CL-11109625.ipa)  | 2ihhCCwoeUuiUHkwKkOB-RW2mFWNDA | N/A| N/A| N/A|
 # season 12
 |Build name🔖 |download apk📝 |download manifest📋 |download build (.rar)📦 | apk modded for SP| apk modded for MP|
 |-----------|-----------|-----------|-----------|-----------|-----------|
