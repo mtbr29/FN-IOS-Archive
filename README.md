@@ -3,7 +3,7 @@ An archive of all known ios fortnite installer (.ipa)
 SP = SinglePlayer
 MP = MultiPlayer
 # season 3
-|Build name🔖 |download apk📝 |download manifest📋 |download build (.rar)📦 | apk modded for SP| apk modded for MP|
+| Build name🔖 | download apk📝 | download manifest📋 | download build (.rar)📦 | apk modded for SP👤 | apk modded for MP👥 |
 |-----------|-----------|-----------|-----------|-----------|-----------|
 | Fortnite+Release-3.3-CL-3944819.ipa | [Download](https://github.com/mtbr29/FN-IOS-Archive/releases/download/release-Fortnite%2BRelease-3-3-CL-3944819-ipa-1749986701/Fortnite.Release-3.3-CL-3944819.ipa)  | N/A | N/A| N/A| N/A|
 | Fortnite+Release-3.4-CL-3968866.ipa | [Download](https://github.com/mtbr29/FN-IOS-Archive/releases/download/release-Fortnite%2BRelease-3-4-CL-3968866-ipa-1749986974/Fortnite.Release-3.4-CL-3968866.ipa)  | N/A | N/A| N/A| N/A|
