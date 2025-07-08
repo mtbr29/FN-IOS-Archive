@@ -1,10 +1,19 @@
 # FN-IOS-Archive
 ![fnbuilds](https://github.com/user-attachments/assets/689fdea4-ec8b-4aeb-b9f7-02d1f37d235b)
 
-An archive of all known ios fortnite installer (.ipa)
-http://download.epicgames.com/Builds/Fortnite/Content/CloudDir/
+The biggest Fortnite archive about IOS. here are archived the installers, the manifest (seasons before s10), sometimes a modded version for SinglePlayer / MultiPlayer.
+
+The builds in .rar will be uploaded soon when i will have a good wifi. they are on py pc so if epic games kill the manifest i have most season downloaded.
+
+IF you want a manifest: [tutorial soon]
+// http://download.epicgames.com/Builds/Fortnite/Content/CloudDir/ \\
+
+drop a star pls
+
 SP = SinglePlayer
 MP = MultiPlayer
+N/a = Not avaible
+
 # season 3
 | Build name🔖 | download apk📝 | download manifest📋 | download build (.rar)📦 | apk modded for SP👤 | apk modded for MP👥 |
 |-----------|-----------|-----------|-----------|-----------|-----------|
