@@ -60,3 +60,5 @@ SP = SinglePlayer | MP = MultiPlayer | N/A = Not avaible
 | Fortnite+Release-12.10-CL-11932896.ipa | [Download](https://github.com/mtbr29/FN-IOS-Archive/releases/download/release-Fortnite%2BRelease-12-10-CL-11932896-ipa-1749986598/Fortnite.Release-12.10-CL-11932896.ipa)  | N/A | N/A| N/A| N/A|
 | Fortnite+Release-12.30-CL-12502545.ipa | [Download](https://github.com/mtbr29/FN-IOS-Archive/releases/download/release-Fortnite%2BRelease-12-30-CL-12502545-ipa-1749986658/Fortnite.Release-12.30-CL-12502545.ipa)  | N/A | N/A| N/A| N/A|
 | Fortnite+Release-12.40-CL-12743645.ipa | [Download](https://github.com/mtbr29/FN-IOS-Archive/releases/download/release-Fortnite%2BRelease-12-40-CL-12743645-ipa-1749986680/Fortnite.Release-12.40-CL-12743645.ipa)  | N/A | N/A| N/A| N/A|
+| Fortnite+Release-12.61-CL-13498980.ipa | [Download](https://github.com/mtbr29/FN-IOS-Archive/releases/download/Fortnite%2BRelease-12.61-CL-13498980/Fortnite+Release-12.61-CL-13498980.ipa
+)  | N/A | N/A| N/A| N/A|
