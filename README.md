@@ -5,14 +5,18 @@ The biggest Fortnite archive about IOS. here are archived the installers, the ma
 
 The builds in .rar will be uploaded soon when i will have a good wifi. they are on py pc so if epic games kill the manifest i have most season downloaded.
 
-IF you want a manifest: [tutorial soon]
-// http://download.epicgames.com/Builds/Fortnite/Content/CloudDir/ \\
+If you want to find a manifest / download a season (win 10/11 **only**): [tutorial soon]
 
-drop a star pls
+### ✨drop a star pls✨
 
-SP = SinglePlayer
-MP = MultiPlayer
-N/a = Not avaible
+SP = SinglePlayer | MP = MultiPlayer | N/A = Not avaible
+
+# credits:
+- [crunnie](https://drive.google.com/drive/folders/1-AE3T3YKpp5-KVZ-w38PtFm19Hj4G0pc) | most builds
+- [Repressoh](https://github.com/Repressoh/Fortnite-iOS-Archive?tab=readme-ov-file) | s31+ builds
+- [Mineluke](https://drive.google.com/drive/folders/1XgsoBvCe-sZ3T3TpCrg3ALqGbawXnY7h) | modded builds for SP and MP
+- [tevtongermany](https://discord.com/users/487615901613686784) & [Th3dryZ69_](https://discord.com/users/382930404249698304) | manifest and build download method
+
 
 # season 3
 | Build name🔖 | download apk📝 | download manifest📋 | download build (.rar)📦 | apk modded for SP👤 | apk modded for MP👥 |
