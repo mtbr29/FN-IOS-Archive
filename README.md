@@ -65,4 +65,5 @@ SP = SinglePlayer | MP = MultiPlayer | N/A = Not avaible
 |Build name🔖 |download apk📝 |download manifest📋 |download build (.rar)📦 | apk modded for SP| apk modded for MP|
 |-----------|-----------|-----------|-----------|-----------|-----------|
 | Fortnite+Release-13.40-CL-14050091.ipa | [Download](https://github.com/mtbr29/FN-IOS-Archive/releases/download/13.40/Fortnite+Release-13.40-CL-14050091.ipa.wtf)  | N/A | N/A| N/A| N/A|
+
 note: rename Fortnite+Release-13.40-CL-14050091.ipa.wtf in Fortnite+Release-13.40-CL-14050091.ipa
