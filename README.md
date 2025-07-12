@@ -9,7 +9,11 @@ If you want to find a manifest / download a season (win 10/11 **only**): [tutori
 
 ### ✨drop a star pls✨
 
-SP = SinglePlayer | MP = MultiPlayer | N/A = Not avaible
+SP = SinglePlayer Modifieds IPAs
+
+MP = MultiPlayer Console includeds IPAs
+
+N/A = Not avaible
 
 # credits:
 - [crunnie](https://drive.google.com/drive/folders/1-AE3T3YKpp5-KVZ-w38PtFm19Hj4G0pc) | most builds **rest in peace man, we will never forget you**
