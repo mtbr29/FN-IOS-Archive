@@ -73,3 +73,74 @@ N/A = Not avaible
 | Fortnite+Release-13.40-CL-14050091.ipa | [Download](https://github.com/mtbr29/FN-IOS-Archive/releases/download/13.40/Fortnite+Release-13.40-CL-14050091.ipa.wtf)  | N/A | N/A| N/A| N/A|
 
 note: rename Fortnite+Release-13.40-CL-14050091.ipa.wtf in Fortnite+Release-13.40-CL-14050091.ipa
+
+
+
+
+
+
+
+
+
+
+
+
+# New version:
+|Build name🔖 |download installer📝 |download manifest📋 |download build (.rar)📦 | apk modded for SP| apk modded for MP|
+|-----------|-----------|-----------|-----------|-----------|-----------|
+| ++Fortnite+Release-5.41-CL-4363240 | [Download]()  | [Download](______) | N/A| N/A| N/A|
+| ++Fortnite+Release-6.01-CL-4413911 | [Download](https://github.com/mtbr29/FN-IOS-Archive/releases/download/new/Fortnite_6.01.1.ipa)  | [Download](______) | N/A| N/A| N/A|
+| ++Fortnite+Release-6.02-CL-4438501 | [Download](https://github.com/mtbr29/FN-IOS-Archive/releases/download/new/Fortnite_6.02.0.ipa)  | [Download](______) | N/A| N/A| N/A|
+| ++Fortnite+Release-6.10-CL-4477651 | [Download](https://github.com/mtbr29/FN-IOS-Archive/releases/download/new/Fortnite_6.10.1.ipa)  | [Download](______) | N/A| N/A| N/A|
+| ++Fortnite+Release-6.20-CL-4497486 | [Download](https://github.com/mtbr29/FN-IOS-Archive/releases/download/new/Fortnite_6.20.0.ipa)  | [Download](______) | N/A| N/A| N/A|
+| ++Fortnite+Release-6.20-CL-4503517 | [Download](https://github.com/mtbr29/FN-IOS-Archive/releases/download/new/Fortnite_6.20.1.ipa)  | [Download](______) | N/A| N/A| N/A|
+| ++Fortnite+Release-6.20-CL-4515272 | [Download](https://github.com/mtbr29/FN-IOS-Archive/releases/download/new/Fortnite_6.20.2.ipa)  | [Download](______) | N/A| N/A| N/A|
+| ++Fortnite+Release-6.21-CL-4526925 | [Download](https://github.com/mtbr29/FN-IOS-Archive/releases/download/new/Fortnite_6.21.0.ipa)  | [Download](______) | N/A| N/A| N/A|
+| ++Fortnite+Release-6.21-CL-4526925 | [Download](https://github.com/mtbr29/FN-IOS-Archive/releases/download/new/Fortnite_6.21.1.ipa)  | [Download](______) | N/A| N/A| N/A|
+| ++Fortnite+Release-6.22-CL-4538154 | [Download](https://github.com/mtbr29/FN-IOS-Archive/releases/download/new/Fortnite_6.22.0.ipa)  | [Download](______) | N/A| N/A| N/A|
+| ++Fortnite+Release-6.31-CL-4573279 | [Download](https://github.com/mtbr29/FN-IOS-Archive/releases/download/new/Fortnite_6.31.0.ipa)  | [Download](______) | N/A| N/A| N/A|
+| ++Fortnite+Release-7.00-CL-4626490 | [Download](https://github.com/mtbr29/FN-IOS-Archive/releases/download/new/Fortnite_7.00.0.ipa)  | [Download](______) | N/A| N/A| N/A|
+| ++Fortnite+Release-7.00-CL-4626490 | [Download](https://github.com/mtbr29/FN-IOS-Archive/releases/download/new/Fortnite_7.00.1.ipa)  | [Download](______) | N/A| N/A| N/A|
+| ++Fortnite+Release-7.01-CL-4644078 | [Download](https://github.com/mtbr29/FN-IOS-Archive/releases/download/new/Fortnite_7.01.0.ipa)  | [Download](______) | N/A| N/A| N/A|
+| ++Fortnite+Release-7.01-CL-4644078 | [Download](https://github.com/mtbr29/FN-IOS-Archive/releases/download/new/Fortnite_7.01.1.ipa)  | [Download](______) | N/A| N/A| N/A|
+| ++Fortnite+Release-7.10-CL-4665069 | [Download](https://github.com/mtbr29/FN-IOS-Archive/releases/download/new/Fortnite_7.10.0.ipa)  | [Download](______) | N/A| N/A| N/A|
+| ++Fortnite+Release-7.20-CL-4717078 | [Download](https://github.com/mtbr29/FN-IOS-Archive/releases/download/new/Fortnite_7.20.0.ipa)  | [Download](______) | N/A| N/A| N/A|
+| ++Fortnite+Release-7.20-CL-4727874 | [Download](https://github.com/mtbr29/FN-IOS-Archive/releases/download/new/Fortnite_7.20.1.ipa)  | [Download](______) | N/A| N/A| N/A|
+| ++Fortnite+Release-7.20-CL-4747526 | [Download](https://github.com/mtbr29/FN-IOS-Archive/releases/download/new/Fortnite_7.20.2.ipa)  | [Download](______) | N/A| N/A| N/A|
+| ++Fortnite+Release-7.30-CL-4821389 | [Download](https://github.com/mtbr29/FN-IOS-Archive/releases/download/new/Fortnite_7.30.0.ipa)  | [Download](______) | N/A| N/A| N/A|
+| ++Fortnite+Release-7.30-CL-4844217 | [Download](https://github.com/mtbr29/FN-IOS-Archive/releases/download/new/Fortnite_7.30.1.ipa)  | [Download](______) | N/A| N/A| N/A|
+| ++Fortnite+Release-7.40-CL-4980899 | [Download](https://github.com/mtbr29/FN-IOS-Archive/releases/download/new/Fortnite_7.40.0.ipa)  | [Download](______) | N/A| N/A| N/A|
+| ++Fortnite+Release-7.40-CL-4996167 | [Download](https://github.com/mtbr29/FN-IOS-Archive/releases/download/new/Fortnite_7.40.1.ipa)  | [Download](______) | N/A| N/A| N/A|
+| ++Fortnite+Release-7.40-CL-5011364 | [Download](https://github.com/mtbr29/FN-IOS-Archive/releases/download/new/Fortnite_7.40.2.ipa)  | [Download](______) | N/A| N/A| N/A|
+| ++Fortnite+Release-8.00-CL-5203069 | [Download](https://github.com/mtbr29/FN-IOS-Archive/releases/download/new/Fortnite_8.00.0.ipa)  | [Download](______) | N/A| N/A| N/A|
+| ++Fortnite+Release-8.00-CL-5251086 | [Download](https://github.com/mtbr29/FN-IOS-Archive/releases/download/new/Fortnite_8.00.1.ipa)  | [Download](______) | N/A| N/A| N/A|
+| ________ | [Download]()  | [Download](______) | N/A| N/A| N/A|
+| ________ | [Download]()  | [Download](______) | N/A| N/A| N/A|
+| ________ | [Download]()  | [Download](______) | N/A| N/A| N/A|
+| ________ | [Download]()  | [Download](______) | N/A| N/A| N/A|
+| ________ | [Download]()  | [Download](______) | N/A| N/A| N/A|
+| ________ | [Download]()  | [Download](______) | N/A| N/A| N/A|
+| ________ | [Download]()  | [Download](______) | N/A| N/A| N/A|
+| ________ | [Download]()  | [Download](______) | N/A| N/A| N/A|
+| ________ | [Download]()  | [Download](______) | N/A| N/A| N/A|
+| ________ | [Download]()  | [Download](______) | N/A| N/A| N/A|
+| ________ | [Download]()  | [Download](______) | N/A| N/A| N/A|
+| ________ | [Download]()  | [Download](______) | N/A| N/A| N/A|
+| ________ | [Download]()  | [Download](______) | N/A| N/A| N/A|
+| ________ | [Download]()  | [Download](______) | N/A| N/A| N/A|
+| ________ | [Download]()  | [Download](______) | N/A| N/A| N/A|
+| ________ | [Download]()  | [Download](______) | N/A| N/A| N/A|
+| ________ | [Download]()  | [Download](______) | N/A| N/A| N/A|
+| ________ | [Download]()  | [Download](______) | N/A| N/A| N/A|
+| ________ | [Download]()  | [Download](______) | N/A| N/A| N/A|
+| ________ | [Download]()  | [Download](______) | N/A| N/A| N/A|
+| ________ | [Download]()  | [Download](______) | N/A| N/A| N/A|
+| ________ | [Download]()  | [Download](______) | N/A| N/A| N/A|
+| ________ | [Download]()  | [Download](______) | N/A| N/A| N/A|
+| ________ | [Download]()  | [Download](______) | N/A| N/A| N/A|
+| ________ | [Download]()  | [Download](______) | N/A| N/A| N/A|
+| ________ | [Download]()  | [Download](______) | N/A| N/A| N/A|
+| ________ | [Download]()  | [Download](______) | N/A| N/A| N/A|
+
+
+++Fortnite+Release-5.41-CL-4363240
