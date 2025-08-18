@@ -7,6 +7,8 @@ The builds in .rar will be uploaded soon when i will have a good wifi. they are 
 
 If you want to find a manifest / download a season (win 10/11 **only**): [tutorial soon]
 
+# looking for the new leak builds from the leak found  in auust: https://github.com/mtbr29/FN-IOS-Archive/releases/tag/new they will be sonn added here
+
 ### ✨drop a star pls✨
 
 SP = SinglePlayer Modifieds IPAs
