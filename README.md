@@ -85,7 +85,7 @@ note: rename Fortnite+Release-13.40-CL-14050091.ipa.wtf in Fortnite+Release-13.4
 
 
 
-# New version:
+# New versions:
 |Build name🔖 |download installer📝 |download manifest📋 |download build (.rar)📦 | apk modded for SP| apk modded for MP|
 |-----------|-----------|-----------|-----------|-----------|-----------|
 | ++Fortnite+Release-5.41-CL-4363240 | [Download]()  | [Download](______) | N/A| N/A| N/A|
