@@ -1,14 +1,14 @@
-# All credits goes to Epic Games, Inc. 
-# This repo is not **affiliated with, authorized, endorsed, or sponsored by Epic Games**, Inc., Fortnite, or any related trademarks.
-
-
-
-
-
-
-
-
 # Fortnite IOS Archive
+# All credits goes to Epic Games, Inc. <br> This repo is not **affiliated with, authorized, endorsed, or sponsored by Epic Games**, Inc., Fortnite, or any related trademarks.
+
+
+
+
+
+
+
+
+
 ![fnbuilds](https://github.com/user-attachments/assets/689fdea4-ec8b-4aeb-b9f7-02d1f37d235b)
 
 The biggest Fortnite archive about IOS. here are archived the installers, the manifest (seasons before s10), sometimes a modded version for SinglePlayer / MultiPlayer.
