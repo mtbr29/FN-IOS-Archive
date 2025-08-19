@@ -86,9 +86,27 @@ note: rename Fortnite+Release-13.40-CL-14050091.ipa.wtf in Fortnite+Release-13.4
 
 
 # New versions:
+
+# season 3
+| Build name🔖 | download installer📝 | download manifest📋 | download build (.rar)📦 | apk modded for SP👤 | apk modded for MP👥 |
+|-----------|-----------|-----------|-----------|-----------|-----------|
+| Fortnite+Release-3.3-CL-3944819.ipa | [Download](https://github.com/mtbr29/FN-IOS-Archive/releases/download/release-Fortnite%2BRelease-3-3-CL-3944819-ipa-1749986701/Fortnite.Release-3.3-CL-3944819.ipa)  | N/A | N/A| N/A| N/A|
+| Fortnite+Release-3.4-CL-3968866.ipa | [Download](https://github.com/mtbr29/FN-IOS-Archive/releases/download/release-Fortnite%2BRelease-3-4-CL-3968866-ipa-1749986974/Fortnite.Release-3.4-CL-3968866.ipa)  | [q9_bx1dK2231ee440b5645afbecb70a55df34d89](https://github.com/mtbr29/FN-IOS-Archive/releases/download/release-Fortnite%2BRelease-3-4-CL-3968866-ipa-1749986974/q9_bx1dK2231ee440b5645afbecb70a55df34d89.manifest) | N/A| N/A| N/A|
+| Fortnite+Release-3.5-CL-3994867.ipa | [Download](https://github.com/mtbr29/FN-IOS-Archive/releases/download/release-Fortnite%2BRelease-3-5-CL-3994867-ipa-1749986986/Fortnite.Release-3.5-CL-3994867.ipa)  | [LmoBtBsR7ba15c218bc6442493ca6d19f3d28855](https://github.com/mtbr29/FN-IOS-Archive/releases/download/release-Fortnite%2BRelease-3-5-CL-3994867_MODDED_FOR_SP-ipa-1749987012/LmoBtBsR7ba15c218bc6442493ca6d19f3d28855.manifest) | N/A| [download](https://github.com/mtbr29/FN-IOS-Archive/releases/download/release-Fortnite%2BRelease-3-5-CL-3994867_MODDED_FOR_SP-ipa-1749987012/Fortnite.Release-3.5-CL-3994867_MODDED_FOR_SP.ipa)| [download](https://github.com/mtbr29/FN-IOS-Archive/releases/download/release-Fortnite%2BRelease-3-5-CL-3994867_MODDED_FOR_MP-ipa-1749987000/Fortnite.Release-3.5-CL-3994867_MODDED_FOR_MP.ipa)|
+# season 4
 |Build name🔖 |download installer📝 |download manifest📋 |download build (.rar)📦 | apk modded for SP| apk modded for MP|
 |-----------|-----------|-----------|-----------|-----------|-----------|
+| Fortnite+Release-4.2-CL-4072250.ipa | [Download](https://github.com/mtbr29/FN-IOS-Archive/releases/download/release-Fortnite%2BRelease-4-2-CL-4072250-ipa-1749987023/Fortnite.Release-4.2-CL-4072250.ipa)  | [cVgKKlL6093599c4dd6b4929bd23f9661d2a920f](https://github.com/mtbr29/FN-IOS-Archive/releases/download/release-Fortnite%2BRelease-4-2-CL-4072250-ipa-1749987023/cVgKKlL6093599c4dd6b4929bd23f9661d2a920f.manifest) | N/A| [download](https://github.com/mtbr29/FN-IOS-Archive/releases/download/release-Fortnite%2BRelease-4-2-CL-4072250_MODDED_FOR_SP-ipa-1749987048/Fortnite.Release-4.2-CL-4072250_MODDED_FOR_SP.ipa)| [download](https://github.com/mtbr29/FN-IOS-Archive/releases/download/release-Fortnite%2BRelease-4-2-CL-4072250_MODDED_FOR_MP-ipa-1749987035/Fortnite.Release-4.2-CL-4072250_MODDED_FOR_MP.ipa)|
+# season 5
+|Build name🔖 |download installer📝 |download manifest📋 |download build (.rar)📦 | apk modded for SP| apk modded for MP|
+|-----------|-----------|-----------|-----------|-----------|-----------|
+| Fortnite+Release-5.20-CL-4261111.ipa | [Download](https://github.com/mtbr29/FN-IOS-Archive/releases/download/release-Fortnite%2BRelease-5-20-CL-4261111-ipa-1749987075/Fortnite.Release-5.20-CL-4261111.ipa)  | [l_psYuFGZqi27bs4T0mamm0HSb3KCA](https://github.com/mtbr29/FN-IOS-Archive/releases/download/release-Fortnite%2BRelease-5-20-CL-4261111-ipa-1749987075/l_psYuFGZqi27bs4T0mamm0HSb3KCA.manifest) | N/A| [download](https://github.com/mtbr29/FN-IOS-Archive/releases/download/release-Fortnite%2BRelease-5-2-CL-4288479_MODDED_FOR_SP-ipa-1749987060/Fortnite+Release-5.20-CL-4261111_MODDED_FOR_SP.ipa)| [download](https://github.com/mtbr29/FN-IOS-Archive/releases/download/release-Fortnite%2BRelease-5-20-CL-4261111_MODDED_FOR_MP-ipa-1749987086/Fortnite.Release-5.20-CL-4261111_MODDED_FOR_MP.ipa)|
+| Fortnite+Release-5.40-CL-4342997.ipa | [Download](https://github.com/mtbr29/FN-IOS-Archive/releases/download/release-Fortnite%2BRelease-5-40-CL-4342997-ipa-1749987098/Fortnite.Release-5.40-CL-4342997.ipa)  | [_3oOSt3_WzX1vInLuUi1otbAEi74ug](https://github.com/mtbr29/FN-IOS-Archive/releases/download/release-Fortnite%2BRelease-5-40-CL-4342997-ipa-1749987098/_3oOSt3_WzX1vInLuUi1otbAEi74ug.manifest) | N/A| [download](https://github.com/mtbr29/FN-IOS-Archive/releases/download/release-Fortnite%2BRelease-5-40-CL-4342997_MODDED_FOR_SP-ipa-1749987122/Fortnite.Release-5.40-CL-4342997_MODDED_FOR_SP.ipa)| [download](https://github.com/mtbr29/FN-IOS-Archive/releases/download/release-Fortnite%2BRelease-5-40-CL-4342997_MODDED_FOR_MP-ipa-1749987110/Fortnite.Release-5.40-CL-4342997_MODDED_FOR_MP.ipa)|
 | ++Fortnite+Release-5.41-CL-4363240 | [Download]()  | [Download](______) | N/A| N/A| N/A|
+
+# season 6
+|Build name🔖 |download installer📝 |download manifest📋 |download build (.rar)📦 | apk modded for SP| apk modded for MP|
+|-----------|-----------|-----------|-----------|-----------|-----------|
 | ++Fortnite+Release-6.01-CL-4413911 | [Download](https://github.com/mtbr29/FN-IOS-Archive/releases/download/new/Fortnite_6.01.1.ipa)  | [Download](______) | N/A| N/A| N/A|
 | ++Fortnite+Release-6.02-CL-4438501 | [Download](https://github.com/mtbr29/FN-IOS-Archive/releases/download/new/Fortnite_6.02.0.ipa)  | [Download](______) | N/A| N/A| N/A|
 | ++Fortnite+Release-6.10-CL-4477651 | [Download](https://github.com/mtbr29/FN-IOS-Archive/releases/download/new/Fortnite_6.10.1.ipa)  | [Download](______) | N/A| N/A| N/A|
@@ -99,6 +117,9 @@ note: rename Fortnite+Release-13.40-CL-14050091.ipa.wtf in Fortnite+Release-13.4
 | ++Fortnite+Release-6.21-CL-4526925 | [Download](https://github.com/mtbr29/FN-IOS-Archive/releases/download/new/Fortnite_6.21.1.ipa)  | [Download](______) | N/A| N/A| N/A|
 | ++Fortnite+Release-6.22-CL-4538154 | [Download](https://github.com/mtbr29/FN-IOS-Archive/releases/download/new/Fortnite_6.22.0.ipa)  | [Download](______) | N/A| N/A| N/A|
 | ++Fortnite+Release-6.31-CL-4573279 | [Download](https://github.com/mtbr29/FN-IOS-Archive/releases/download/new/Fortnite_6.31.0.ipa)  | [Download](______) | N/A| N/A| N/A|
+# season 7
+|Build name🔖 |download installer📝 |download manifest📋 |download build (.rar)📦 | apk modded for SP| apk modded for MP|
+|-----------|-----------|-----------|-----------|-----------|-----------|
 | ++Fortnite+Release-7.00-CL-4626490 | [Download](https://github.com/mtbr29/FN-IOS-Archive/releases/download/new/Fortnite_7.00.0.ipa)  | [Download](______) | N/A| N/A| N/A|
 | ++Fortnite+Release-7.00-CL-4626490 | [Download](https://github.com/mtbr29/FN-IOS-Archive/releases/download/new/Fortnite_7.00.1.ipa)  | [Download](______) | N/A| N/A| N/A|
 | ++Fortnite+Release-7.01-CL-4644078 | [Download](https://github.com/mtbr29/FN-IOS-Archive/releases/download/new/Fortnite_7.01.0.ipa)  | [Download](______) | N/A| N/A| N/A|
@@ -112,6 +133,9 @@ note: rename Fortnite+Release-13.40-CL-14050091.ipa.wtf in Fortnite+Release-13.4
 | ++Fortnite+Release-7.40-CL-4980899 | [Download](https://github.com/mtbr29/FN-IOS-Archive/releases/download/new/Fortnite_7.40.0.ipa)  | [Download](______) | N/A| N/A| N/A|
 | ++Fortnite+Release-7.40-CL-4996167 | [Download](https://github.com/mtbr29/FN-IOS-Archive/releases/download/new/Fortnite_7.40.1.ipa)  | [Download](______) | N/A| N/A| N/A|
 | ++Fortnite+Release-7.40-CL-5011364 | [Download](https://github.com/mtbr29/FN-IOS-Archive/releases/download/new/Fortnite_7.40.2.ipa)  | [Download](______) | N/A| N/A| N/A|
+# season 8
+|Build name🔖 |download installer📝 |download manifest📋 |download build (.rar)📦 | apk modded for SP| apk modded for MP|
+|-----------|-----------|-----------|-----------|-----------|-----------|
 | ++Fortnite+Release-8.00-CL-5203069 | [Download](https://github.com/mtbr29/FN-IOS-Archive/releases/download/new/Fortnite_8.00.0.ipa)  | [Download](______) | N/A| N/A| N/A|
 | ++Fortnite+Release-8.00-CL-5251086 | [Download](https://github.com/mtbr29/FN-IOS-Archive/releases/download/new/Fortnite_8.00.1.ipa)  | [Download](______) | N/A| N/A| N/A|
 | ________ | [Download]()  | [Download](______) | N/A| N/A| N/A|
