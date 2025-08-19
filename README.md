@@ -1,3 +1,13 @@
+# All credits go to Epic Games, Inc. 
+# This repo is not **affiliated with, authorized, endorsed, or sponsored by Epic Games**, Inc., Fortnite, or any related trademarks.
+
+
+
+
+
+
+
+
 # Fortnite IOS Archive
 ![fnbuilds](https://github.com/user-attachments/assets/689fdea4-ec8b-4aeb-b9f7-02d1f37d235b)
 
