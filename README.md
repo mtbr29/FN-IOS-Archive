@@ -1,4 +1,4 @@
-# All credits go to Epic Games, Inc. 
+# All credits goes to Epic Games, Inc. 
 # This repo is not **affiliated with, authorized, endorsed, or sponsored by Epic Games**, Inc., Fortnite, or any related trademarks.
 
 
