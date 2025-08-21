@@ -40,7 +40,7 @@ N/A = Not avaible
 |-----------|-----------|-----------|-----------|-----------|-----------|
 | Fortnite+Release-3.3.0-CL- | [Download](https://drive.google.com/uc?export=download&id=1ZawHtZ7Xg3HkDWrpbz-TvSN7VvunXDjd&name=Fortnite_3.3.0.ipa)  | N/A | N/A| N/A| N/A|
 | Fortnite+Release-3.3.1-CL- | [Download](https://drive.google.com/uc?export=download&id=1T9zVVjOK-vj1877u7K7kR3kAG04hGQAr&name=Fortnite_3.3.1.ipa)  | N/A | N/A| N/A| N/A|
-| Fortnite+Release-3.4.0-CL- | [Download](https://drive.google.com/uc?export=download&id=1BWg-RQ8UVn-bKUorfsoZDW_fETZi5dLl&name=Fortnite_3.4.0.ipa)  | N/A | N/A| N/A| N/A|
+| ++Fortnite+Release-3.4-CL-3968866 | [Download](https://drive.google.com/uc?export=download&id=1BWg-RQ8UVn-bKUorfsoZDW_fETZi5dLl&name=Fortnite_3.4.0.ipa)  | [Download](https://epicgames-download1.akamaized.net/Builds/Fortnite/Content/CloudDir/q9_bx1dK2231ee440b5645afbecb70a55df34d89.manifest) | N/A| N/A| N/A|
 | Fortnite+Release-3.4.2-CL- | [Download](https://drive.google.com/uc?export=download&id=15kNgxC3UI-57OiY0LkcRR2InhZZZI3u1&name=Fortnite_3.4.2.ipa)  | N/A | N/A| N/A| N/A|
 | Fortnite+Release-3.5.0-CL- | [Download](https://drive.google.com/uc?export=download&id=1l2J0oExSM_o-H4vYaUfaJLiaFfbHVx4Q&name=Fortnite_3.5.0.ipa)  | N/A | N/A| N/A| N/A|
 | Fortnite+Release-3.6.0-CL- | [Download](https://drive.google.com/uc?export=download&id=1TEQeQBqZvvKajwVuJ6GgU_Y-EuURbsYf&name=Fortnite_3.6.0.ipa)  | N/A | N/A| N/A| N/A|
