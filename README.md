@@ -60,19 +60,19 @@ N/A = Not avaible
 # season 5
 | Build name🔖 | download installer📝 | download manifest📋 | download build (.rar)📦 | apk modded for SP👤 | apk modded for MP👥 |
 |-----------|-----------|-----------|-----------|-----------|-----------|
-| Fortnite+Release-5.0.0-CL- | [Download](https://drive.google.com/uc?export=download&id=1EajwUNAC0JUKVCtt_K8Kuf6dnwFwHnUR&name=Fortnite_5.0.0.ipa)  | N/A | N/A| N/A| N/A|
-| Fortnite+Release-5.1.0-CL- | [Download](https://drive.google.com/uc?export=download&id=1JePFKC-bXf8uev_E87gajMtEH_hd5fdY&name=Fortnite_5.1.0.ipa)  | N/A | N/A| N/A| N/A|
-| Fortnite+Release-5.1.1-CL- | [Download](https://drive.google.com/uc?export=download&id=1yu9K8BrXAsFuxYp2urSsaCDfuwZfpgNi&name=Fortnite_5.1.1.ipa)  | N/A | N/A| N/A| N/A|
-| Fortnite+Release-5.2.0-CL- | [Download](https://drive.google.com/uc?export=download&id=1Wr2eiQJV-RflUsMDROdTmzJ9wSKO7eBY&name=Fortnite_5.2.0.ipa)  | N/A | N/A| N/A| N/A|
-| Fortnite+Release-5.21.0-CL- | [Download](https://drive.google.com/uc?export=download&id=1lunvx1Nx4lgOT3E9lENNN6ds88sYF8MM&name=Fortnite_5.21.0.ipa)  | N/A | N/A| N/A| N/A|
-| Fortnite+Release-5.21.1-CL- | [Download](https://drive.google.com/uc?export=download&id=1yKHKcXoWuq_R6ViXEDwCxh5soj-Ko_5N&name=Fortnite_5.21.1.ipa)  | N/A | N/A| N/A| N/A|
-| Fortnite+Release-5.30.0-CL- | [Download](https://drive.google.com/uc?export=download&id=1Z7vezkUWCpEc90LPDsPxRhv_V43WE5Yz&name=Fortnite_5.30.0.ipa)  | N/A | N/A| N/A| N/A|
-| Fortnite+Release-5.30.1-CL- | [Download](https://drive.google.com/uc?export=download&id=1_Rb88-h91LfRywvP8G0M-GsA_3U5w5m-&name=Fortnite_5.30.1.ipa)  | N/A | N/A| N/A| N/A|
-| Fortnite+Release-5.30.2-CL- | [Download](https://drive.google.com/uc?export=download&id=1ClUDLucJFUVVl4x1rQbj7dK5umsImsWA&name=Fortnite_5.30.2.ipa)  | N/A | N/A| N/A| N/A|
-| Fortnite+Release-5.40.0-CL- | [Download](https://drive.google.com/uc?export=download&id=1zDKyzEMbZ56DH7dn9zYdNL-0HwkWW_Xb&name=Fortnite_5.40.0.ipa)  | N/A | N/A| N/A| N/A|
-| Fortnite+Release-5.40.1-CL- | [Download](https://drive.google.com/uc?export=download&id=1SFzSHz1vSgn90wdhrDtUAgyY74es_T5c&name=Fortnite_5.40.1.ipa)  | N/A | N/A| N/A| N/A|
-| Fortnite+Release-5.40.2-CL- | [Download](https://drive.google.com/uc?export=download&id=1H4ch3k43hVrVJ4BW6zVY-6zvMrx71bJV&name=Fortnite_5.40.2.ipa)  | N/A | N/A| N/A| N/A|
-| Fortnite+Release-5.41.0-CL- | [Download](https://drive.google.com/uc?export=download&id=1OH6wDf81qD9DWCDNgpIJ8XVI5aE74VxY&name=Fortnite_5.41.0.ipa)  | N/A | N/A| N/A| N/A|
+| ++Fortnite+Release-5.0-CL-4202095 | [Download](https://drive.google.com/uc?export=download&id=1EajwUNAC0JUKVCtt_K8Kuf6dnwFwHnUR&name=Fortnite_5.0.0.ipa)  | [Download](https://epicgames-download1.akamaized.net/ Builds/Fortnite/Content/CloudDir/KA-Z9ahISB8McLyXAUm-yKGyNb75iQ.manifest | N/A| N/A| N/A|
+| ++Fortnite+Release-5.10-CL-4225813 | [Download](https://drive.google.com/uc?export=download&id=1JePFKC-bXf8uev_E87gajMtEH_hd5fdY&name=Fortnite_5.1.0.ipa)  | [Download](https://epicgames-download1.akamaized.net/ Builds/Fortnite/Content/CloudDir/DWahmBHFSW-eooeH-UO-srhU057tBA.manifest | N/A| N/A| N/A|
+| ++Fortnite+Release-5.10-CL-4237136 | [Download](https://drive.google.com/uc?export=download&id=1yu9K8BrXAsFuxYp2urSsaCDfuwZfpgNi&name=Fortnite_5.1.1.ipa)  | [Download](https://epicgames-download1.akamaized.net/ Builds/Fortnite/Content/CloudDir/UoDJFW8a4diNwxZWgEGFDIlSUizADg.manifest | N/A| N/A| N/A|
+| ++Fortnite+Release-5.20-CL-4261111 | [Download](https://drive.google.com/uc?export=download&id=1Wr2eiQJV-RflUsMDROdTmzJ9wSKO7eBY&name=Fortnite_5.2.0.ipa)  | [Download](https://epicgames-download1.akamaized.net/ Builds/Fortnite/Content/CloudDir/l_psYuFGZqi27bs4T0mamm0HSb3KCA.manifest | N/A| N/A| N/A|
+| ++Fortnite+Release-5.21-CL-4282863 | [Download](https://drive.google.com/uc?export=download&id=1lunvx1Nx4lgOT3E9lENNN6ds88sYF8MM&name=Fortnite_5.21.0.ipa)  | [Download](https://epicgames-download1.akamaized.net/ Builds/Fortnite/Content/CloudDir/HJym8KzNzWpLC44tPUikofxmFXuV0w.manifest | N/A| N/A| N/A|
+| ++Fortnite+Release-5.21-CL-4288479 | [Download](https://drive.google.com/uc?export=download&id=1yKHKcXoWuq_R6ViXEDwCxh5soj-Ko_5N&name=Fortnite_5.21.1.ipa)  | [Download](https://epicgames-download1.akamaized.net/ Builds/Fortnite/Content/CloudDir/lhTVldbkVvcv9buUi0eiwup7wnXMiA.manifest | N/A| N/A| N/A|
+| ++Fortnite+Release-5.30-CL-4304468 | [Download](https://drive.google.com/uc?export=download&id=1Z7vezkUWCpEc90LPDsPxRhv_V43WE5Yz&name=Fortnite_5.30.0.ipa)  | [Download](https://epicgames-download1.akamaized.net/ Builds/Fortnite/Content/CloudDir/V8w52ApQq5VoSBarA0CAPbqQ96Hysw.manifest | N/A| N/A| N/A|
+| ++Fortnite+Release-5.30-CL-4312945 | [Download](https://drive.google.com/uc?export=download&id=1_Rb88-h91LfRywvP8G0M-GsA_3U5w5m-&name=Fortnite_5.30.1.ipa)  | [Download](https://epicgames-download1.akamaized.net/ Builds/Fortnite/Content/CloudDir/iswkOvGhcfKaxOaHYUK53O9EOUWxSA.manifest | N/A| N/A| N/A|
+| ++Fortnite+Release-5.30-CL-4317672 | [Download](https://drive.google.com/uc?export=download&id=1ClUDLucJFUVVl4x1rQbj7dK5umsImsWA&name=Fortnite_5.30.2.ipa)  | [Download](https://epicgames-download1.akamaized.net/ Builds/Fortnite/Content/CloudDir/UaYWSNf41F6AmPbc90OIuzW16ldvzA.manifest | N/A| N/A| N/A|
+| ++Fortnite+Release-5.40-CL-4342997 | [Download](https://drive.google.com/uc?export=download&id=1zDKyzEMbZ56DH7dn9zYdNL-0HwkWW_Xb&name=Fortnite_5.40.0.ipa)  | [Download](https://epicgames-download1.akamaized.net/ Builds/Fortnite/Content/CloudDir/_3oOSt3_WzX1vInLuUi1otbAEi74ug.manifest | N/A| N/A| N/A|
+| ++Fortnite+Release-5.40-CL-4349476 | [Download](https://drive.google.com/uc?export=download&id=1SFzSHz1vSgn90wdhrDtUAgyY74es_T5c&name=Fortnite_5.40.1.ipa)  | [Download](https://epicgames-download1.akamaized.net/ Builds/Fortnite/Content/CloudDir/koOXKr7pFbetBZBC40-h8kG2zSFaJg.manifest | N/A| N/A| N/A|
+| ++Fortnite+Release-5.40-CL-4353202 | [Download](https://drive.google.com/uc?export=download&id=1H4ch3k43hVrVJ4BW6zVY-6zvMrx71bJV&name=Fortnite_5.40.2.ipa)  | [Download](https://epicgames-download1.akamaized.net/ Builds/Fortnite/Content/CloudDir/2edT1quCnQw-cHn4-ESNtmtPi7DNlQ.manifest | N/A| N/A| N/A|
+| ++Fortnite+Release-5.41-CL-4363240 | [Download](https://drive.google.com/uc?export=download&id=1OH6wDf81qD9DWCDNgpIJ8XVI5aE74VxY&name=Fortnite_5.41.0.ipa)  | [Download](https://epicgames-download1.akamaized.net/ Builds/Fortnite/Content/CloudDir/PBNEU4mIXAsSEsw7G023xZq3c-bQsA.manifest | N/A| N/A| N/A|
 # season 6
 | Build name🔖 | download installer📝 | download manifest📋 | download build (.rar)📦 | apk modded for SP👤 | apk modded for MP👥 |
 |-----------|-----------|-----------|-----------|-----------|-----------|
@@ -214,6 +214,8 @@ N/A = Not avaible
 | Fortnite+Release-13.40.0-CL- | [Download](https://drive.google.com/uc?export=download&id=1Og8f4cdozxe04gYlOJlg3zF7uDlEfuRH&name=Fortnite_13.40.0.ipa)  | N/A | N/A| N/A| N/A|
 | Fortnite+Release-13.40.1-CL- | [Download](https://drive.google.com/uc?export=download&id=1gnZr2AHpAPwNQasG8CKUSyET4zS7L8TI&name=Fortnite_13.40.1.ipa)  | N/A | N/A| N/A| N/A|
 
+# License
+This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
 
 <!--# season 3
 | Build name🔖 | download installer📝 | download manifest📋 | download build (.rar)📦 | apk modded for SP👤 | apk modded for MP👥 |
