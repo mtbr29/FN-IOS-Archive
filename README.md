@@ -78,8 +78,12 @@ N/A = Not avaible
 |-----------|-----------|-----------|-----------|-----------|-----------|
 | ++Fortnite+Release-6.00-CL-4395664 | [Download](https://drive.google.com/uc?export=download&id=1adO_GbIWWhl6oSQFevhDY_CoXIPyxO1d&name=Fortnite_6.00.0.ipa)  | [Download](https://epicgames-download1.akamaized.net/Builds/Fortnite/Content/CloudDir/uvUglKf83l3VuSzrik6LP_NNi7Hfhg.manifest) | N/A| N/A| N/A|
 |++Fortnite+Release-6.00-CL-4402180| [Download](https://drive.google.com/uc?export=download&id=1UWYRMmnG4D8oB3Ybd8UOFQBnhnMcraRb&name=Fortnite_6.00.1.ipa)  | [Download](https://epicgames-download1.akamaized.net/Builds/Fortnite/Content/CloudDir/_Rgz2VwcVpKAnum4HES7b0yo8osJxw.manifest) | N/A| N/A| N/A|
-| Fortnite+Release-6.01.0-CL- | [Download](https://drive.google.com/uc?export=download&id=1hmO0TFAapX1WLxMOXchSaB9emTwqyk_t&name=Fortnite_6.01.0.ipa)  | N/A | N/A| N/A| N/A|
-| Fortnite+Release-6.01.1-CL- | [Download](https://drive.google.com/uc?export=download&id=1qm-UGMl2lZbzj6WNolQdP4BriL0Tn1-r&name=Fortnite_6.01.1.ipa)  | N/A | N/A| N/A| N/A|
+| ++Fortnite+Release-6.01-CL-4413911 | [Download](https://drive.google.com/uc?export=download&id=1hmO0TFAapX1WLxMOXchSaB9emTwqyk_t&name=Fortnite_6.01.0.ipa)  | [Download](https://epicgames-download1.akamaized.net/Builds/Fortnite/Content/CloudDir/B1LTH1FOw-XuVdf8iU2saf3Idm9GmA.manifest) | N/A| N/A| N/A|
+| ++Fortnite+Release-6.01-CL-4413911_2 | [Download](https://drive.google.com/uc?export=download&id=1qm-UGMl2lZbzj6WNolQdP4BriL0Tn1-r&name=Fortnite_6.01.1.ipa)  | [Download](https://epicgames-download1.akamaized.net/Builds/Fortnite/Content/CloudDir/B1LTH1FOw-XuVdf8iU2saf3Idm9GmA.manifest) | N/A| N/A| N/A|
+#### Note:
+This version have the same ID but are differents...
+<img width="630.5" height="314" alt="image" src="https://github.com/user-attachments/assets/1eff25eb-ad41-4c51-b63a-8390588a8f3f" />
+
 | Fortnite+Release-6.02.0-CL- | [Download](https://drive.google.com/uc?export=download&id=1hbZw5mH7IMHBkjk8k9MY2yLhL133xgP6&name=Fortnite_6.02.0.ipa)  | N/A | N/A| N/A| N/A|
 | Fortnite+Release-6.10.0-CL- | [Download](https://drive.google.com/uc?export=download&id=1FMaAukBfWXF9dA5zuNRcL7peIBuqlyNB&name=Fortnite_6.10.0.ipa)  | N/A | N/A| N/A| N/A|
 | Fortnite+Release-6.10.1-CL- | [Download](https://drive.google.com/uc?export=download&id=1j-qMKSFRPTKX9K7nm7jzxiJCR9PDIyJZ&name=Fortnite_6.10.1.ipa)  | N/A | N/A| N/A| N/A|
