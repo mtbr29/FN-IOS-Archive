@@ -76,8 +76,8 @@ N/A = Not avaible
 # season 6
 | Build name🔖 | download installer📝 | download manifest📋 | download build (.rar)📦 | apk modded for SP👤 | apk modded for MP👥 |
 |-----------|-----------|-----------|-----------|-----------|-----------|
-| Fortnite+Release-6.00.0-CL- | [Download](https://drive.google.com/uc?export=download&id=1adO_GbIWWhl6oSQFevhDY_CoXIPyxO1d&name=Fortnite_6.00.0.ipa)  | N/A | N/A| N/A| N/A|
-| Fortnite+Release-6.00.1-CL- | [Download](https://drive.google.com/uc?export=download&id=1UWYRMmnG4D8oB3Ybd8UOFQBnhnMcraRb&name=Fortnite_6.00.1.ipa)  | N/A | N/A| N/A| N/A|
+| ++Fortnite+Release-6.00-CL-4395664 | [Download](https://drive.google.com/uc?export=download&id=1adO_GbIWWhl6oSQFevhDY_CoXIPyxO1d&name=Fortnite_6.00.0.ipa)  | [Download](https://epicgames-download1.akamaized.net/Builds/Fortnite/Content/CloudDir/uvUglKf83l3VuSzrik6LP_NNi7Hfhg.manifest | N/A| N/A| N/A|
+|++Fortnite+Release-6.00-CL-4402180| [Download](https://drive.google.com/uc?export=download&id=1UWYRMmnG4D8oB3Ybd8UOFQBnhnMcraRb&name=Fortnite_6.00.1.ipa)  | [Download](https://epicgames-download1.akamaized.net/Builds/Fortnite/Content/CloudDir/_Rgz2VwcVpKAnum4HES7b0yo8osJxw.manifest | N/A| N/A| N/A|
 | Fortnite+Release-6.01.0-CL- | [Download](https://drive.google.com/uc?export=download&id=1hmO0TFAapX1WLxMOXchSaB9emTwqyk_t&name=Fortnite_6.01.0.ipa)  | N/A | N/A| N/A| N/A|
 | Fortnite+Release-6.01.1-CL- | [Download](https://drive.google.com/uc?export=download&id=1qm-UGMl2lZbzj6WNolQdP4BriL0Tn1-r&name=Fortnite_6.01.1.ipa)  | N/A | N/A| N/A| N/A|
 | Fortnite+Release-6.02.0-CL- | [Download](https://drive.google.com/uc?export=download&id=1hbZw5mH7IMHBkjk8k9MY2yLhL133xgP6&name=Fortnite_6.02.0.ipa)  | N/A | N/A| N/A| N/A|
