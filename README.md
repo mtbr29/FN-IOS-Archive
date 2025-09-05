@@ -139,23 +139,20 @@ This version have the same ID but are differents...
 |-----------|-----------|-----------|-----------|-----------|-----------|
 | Fortnite+Release-9.00.0-CL- | [Download](https://drive.google.com/uc?export=download&id=1740a_VSIX6_s_k8oACIpGVjS4kuPtGYt&name=Fortnite_9.00.0.ipa)  | N/A | N/A| N/A| N/A|
 | Fortnite+Release-9.01.0-CL- | [Download](https://drive.google.com/uc?export=download&id=1HTKciovInCQEt6eQBGMj9CXJYCXYSGZu&name=Fortnite_9.01.0.ipa)  | N/A | N/A| N/A| N/A|
+| Fortnite+Release-9.10.0-CL-  | [Download](https://drive.google.com/uc?export=download&id=1dLsOnC1B1dtBCWuTVigGMrnYvS_CifVC&name=Fortnite_9.10.0.ipa)  | N/A | N/A| N/A| N/A|
 | Fortnite+Release-9.20.0-CL- | [Download](https://drive.google.com/uc?export=download&id=1jIyhQ7Tu87pfdwKW-cv6cPZzKBIsODs7&name=Fortnite_9.20.0.ipa)  | N/A | N/A| N/A| N/A|
 | Fortnite+Release-9.20.1-CL- | [Download](https://drive.google.com/uc?export=download&id=1eB1lnSZxgjMrvoo4XgH1izHqk9cad7jQ&name=Fortnite_9.20.1.ipa)  | N/A | N/A| N/A| N/A|
 | Fortnite+Release-9.21.0-CL-  | [Download](https://drive.google.com/uc?export=download&id=1xFrVHN0wQiFcrfxsuZYJEjsG7GJfJiMQ&name=Fortnite_9.21.0.ipa)  | N/A | N/A| N/A| N/A|
 | Fortnite+Release-9.21.1-CL-  | [Download](https://drive.google.com/uc?export=download&id=1yWyXmaJWGBuyj9ap4mKtMOOa-nREB1NQ&name=Fortnite_9.21.1.ipa)  | N/A | N/A| N/A| N/A|
-| Fortnite+Release-9.20.0-CL-  | [Download](https://drive.google.com/uc?export=download&id=1jIyhQ7Tu87pfdwKW-cv6cPZzKBIsODs7&name=Fortnite_9.20.0.ipa)  | N/A | N/A| N/A| N/A|
-| Fortnite+Release-9.20.1-CL-  | [Download](https://drive.google.com/uc?export=download&id=1eB1lnSZxgjMrvoo4XgH1izHqk9cad7jQ&name=Fortnite_9.20.1.ipa)  | N/A | N/A| N/A| N/A|
-| Fortnite+Release-9.10.0-CL-  | [Download](https://drive.google.com/uc?export=download&id=1dLsOnC1B1dtBCWuTVigGMrnYvS_CifVC&name=Fortnite_9.10.0.ipa)  | N/A | N/A| N/A| N/A|
-| Fortnite+Release-9.01.0-CL-  | [Download](https://drive.google.com/uc?export=download&id=1HTKciovInCQEt6eQBGMj9CXJYCXYSGZu&name=Fortnite_9.01.0.ipa)  | N/A | N/A| N/A| N/A|
-| Fortnite+Release-9.00.0-CL-  | [Download](https://drive.google.com/uc?export=download&id=1740a_VSIX6_s_k8oACIpGVjS4kuPtGYt&name=Fortnite_9.00.0.ipa)  | N/A | N/A| N/A| N/A|
-| Fortnite+Release-9.41.0-CL-  | [Download](https://drive.google.com/uc?export=download&id=1Al6IDGqxcTpwKW87OgijeWVKG85IIsq6&name=Fortnite_9.41.0.ipa)  | N/A | N/A| N/A| N/A|
-| Fortnite+Release-9.41.1-CL-  | [Download](https://drive.google.com/uc?export=download&id=1SMuZSOpIzfuhcBTWVdvR1gRnx88wwR9p&name=Fortnite_9.41.1.ipa)  | N/A | N/A| N/A| N/A|
-| Fortnite+Release-9.40.0-CL-  | [Download](https://drive.google.com/uc?export=download&id=1v0YHooWlnq6kn3RBObZP5qkbSYiBpVT1&name=Fortnite_9.40.0.ipa)  | N/A | N/A| N/A| N/A|
-| Fortnite+Release-9.40.1-CL-  | [Download](https://drive.google.com/uc?export=download&id=1Jg-qFDNqUP_477Y8PP29VUfitFslb77E&name=Fortnite_9.40.1.ipa)  | N/A | N/A| N/A| N/A|
-| Fortnite+Release-9.40.2-CL-  | [Download](https://drive.google.com/uc?export=download&id=1RO1h3UOOzlJGtM07W9D1WFty32GTwTQw&name=Fortnite_9.40.2.ipa)  | N/A | N/A| N/A| N/A|
 | Fortnite+Release-9.30.0-CL-  | [Download](https://drive.google.com/uc?export=download&id=1ijczHmnkasJfOvvxozOjwQlto0PsMPeD&name=Fortnite_9.30.0.ipa)  | N/A | N/A| N/A| N/A|
 | Fortnite+Release-9.30.1-CL-  | [Download](https://drive.google.com/uc?export=download&id=1mnzZUqQkhdabdSVPZgTiU98V6t2rqn2L&name=Fortnite_9.30.1.ipa)  | N/A | N/A| N/A| N/A|
 | Fortnite+Release-9.30.2-CL-  | [Download](https://drive.google.com/uc?export=download&id=1CZdB2IvM0IYUnW0GA3_NGSI8RG9DGORh&name=Fortnite_9.30.2.ipa)  | N/A | N/A| N/A| N/A|
+| Fortnite+Release-9.40.0-CL-  | [Download](https://drive.google.com/uc?export=download&id=1v0YHooWlnq6kn3RBObZP5qkbSYiBpVT1&name=Fortnite_9.40.0.ipa)  | N/A | N/A| N/A| N/A|
+| Fortnite+Release-9.40.1-CL-  | [Download](https://drive.google.com/uc?export=download&id=1Jg-qFDNqUP_477Y8PP29VUfitFslb77E&name=Fortnite_9.40.1.ipa)  | N/A | N/A| N/A| N/A|
+| Fortnite+Release-9.40.2-CL-  | [Download](https://drive.google.com/uc?export=download&id=1RO1h3UOOzlJGtM07W9D1WFty32GTwTQw&name=Fortnite_9.40.2.ipa)  | N/A | N/A| N/A| N/A|
+| Fortnite+Release-9.41.0-CL-  | [Download](https://drive.google.com/uc?export=download&id=1Al6IDGqxcTpwKW87OgijeWVKG85IIsq6&name=Fortnite_9.41.0.ipa)  | N/A | N/A| N/A| N/A|
+| Fortnite+Release-9.41.1-CL-  | [Download](https://drive.google.com/uc?export=download&id=1SMuZSOpIzfuhcBTWVdvR1gRnx88wwR9p&name=Fortnite_9.41.1.ipa)  | N/A | N/A| N/A| N/A|
+
 # season 10
 | Build name🔖 | download installer📝 | download manifest📋 | download build (.rar)📦 | apk modded for SP👤 | apk modded for MP👥 |
 |-----------|-----------|-----------|-----------|-----------|-----------|
