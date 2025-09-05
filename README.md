@@ -121,19 +121,19 @@ This version have the same ID but are differents...
 | ++Fortnite+Release-8.00-CL-5251086 | [Download](https://drive.google.com/uc?export=download&id=1U5KhJa0DXoVOVnWV5VCYTJlQxwGjDUjY&name=Fortnite_8.00.1.ipa)  | [Download](https://epicgames-download1.akamaized.net/Builds/Fortnite/Content/CloudDir/_ExgwYlhEnVZiZr3s02gO173gFkOtQ.manifest) | N/A| N/A| N/A|
 | ++Fortnite+Release-8.01-CL-5285981 | [Download](https://drive.google.com/uc?export=download&id=1g3ivQEFD33PxJ2y7iWrkwEsKafN0Nl9i&name=Fortnite_8.01.0.ipa)  | [Download](https://epicgames-download1.akamaized.net/Builds/Fortnite/Content/CloudDir/J1D8Rc9AOLR5oBuEGUKAzQx90kDZaA.manifest) | N/A| N/A| N/A|
 | ++Fortnite+Release-8.10-CL-5357776 | [Download](https://drive.google.com/uc?export=download&id=1T3O7bf2onT1SXdib1fFS11PHixvoZRvA&name=Fortnite_8.10.0.ipa)  | [Download](https://epicgames-download1.akamaized.net/Builds/Fortnite/Content/CloudDir/icHJ-lhpud_RvmlQr0yiYQS6AkKlaQ.manifest) | N/A| N/A| N/A|
-| Fortnite+Release-8.10.1-CL- | [Download](https://drive.google.com/uc?export=download&id=1Rb2SQbWQtYN89dWtyxdqiMGms2axwr_G&name=Fortnite_8.10.1.ipa)  | N/A | N/A| N/A| N/A|
-| Fortnite+Release-8.11.0-CL- | [Download](https://drive.google.com/uc?export=download&id=1UTLOjPHUJqadMkzL9MP7TMz1LfzV0THM&name=Fortnite_8.11.0.ipa)  | N/A | N/A| N/A| N/A|
-| Fortnite+Release-8.11.1-CL- | [Download](https://drive.google.com/uc?export=download&id=1SSATRSQ77BRAyFrUa47eUZqOmOMQZ2Nr&name=Fortnite_8.11.1.ipa)  | N/A | N/A| N/A| N/A|
-| Fortnite+Release-8.20.0-CL- | [Download](https://drive.google.com/uc?export=download&id=1HDYcaSvoOM2TJ1yIdRiJo-eRyKXcucAR&name=Fortnite_8.20.0.ipa)  | N/A | N/A| N/A| N/A|
-| Fortnite+Release-8.20.1-CL- | [Download](https://drive.google.com/uc?export=download&id=1G7luvkf8lJjqqx4WyJj6jBy6L6dvO-Xb&name=Fortnite_8.20.1.ipa)  | N/A | N/A| N/A| N/A|
-| Fortnite+Release-8.20.2-CL- | [Download](https://drive.google.com/uc?export=download&id=1V_B7GKWOorEb5Vf1-mLVNX8GtzvJ2K2t&name=Fortnite_8.20.2.ipa)  | N/A | N/A| N/A| N/A|
-| Fortnite+Release-8.30.0-CL- | [Download](https://drive.google.com/uc?export=download&id=10oTTTdZq9w7eAwEl1VXf23rzOkrNWc-m&name=Fortnite_8.30.0.ipa)  | N/A | N/A| N/A| N/A|
-| Fortnite+Release-8.30.1-CL- | [Download](https://drive.google.com/uc?export=download&id=1GOXg9TGmdoMGCImFMe0kKcUquz6hF9Gq&name=Fortnite_8.30.1.ipa)  | N/A | N/A| N/A| N/A|
-| Fortnite+Release-8.30.2-CL- | [Download](https://drive.google.com/uc?export=download&id=149Zii8wMfpMcvtjh9c5_T8PxHStrE_QR&name=Fortnite_8.30.2.ipa)  | N/A | N/A| N/A| N/A|
-| Fortnite+Release-8.40.0-CL- | [Download](https://drive.google.com/uc?export=download&id=19ppqW8KZfs6GB9UIvLdKZqJPFlZjH2m-&name=Fortnite_8.40.0.ipa)  | N/A | N/A| N/A| N/A|
-| Fortnite+Release-8.40.1-CL- | [Download](https://drive.google.com/uc?export=download&id=1IHsguhWg1r0OEhBnb5RBPdy5CAOxa8nj&name=Fortnite_8.40.1.ipa)  | N/A | N/A| N/A| N/A|
-| Fortnite+Release-8.50.0-CL- | [Download](https://drive.google.com/uc?export=download&id=1psEe3veN5G07UuEcJELfo7C1wOaEerar&name=Fortnite_8.50.0.ipa)  | N/A | N/A| N/A| N/A|
-| Fortnite+Release-8.51.0-CL- | [Download](https://drive.google.com/uc?export=download&id=1-uid3IgovZbLnijnLhJHIPtszZHIDszb&name=Fortnite_8.51.0.ipa)  | N/A | N/A| N/A| N/A|
+| ++Fortnite+Release-8.10-CL-5383041 | [Download](https://drive.google.com/uc?export=download&id=1Rb2SQbWQtYN89dWtyxdqiMGms2axwr_G&name=Fortnite_8.10.1.ipa)  | [Download](https://epicgames-download1.akamaized.net/Builds/Fortnite/Content/CloudDir/7tBrOo0RKCw8rP6CyE24oOsukQsQJg.manifest) | N/A| N/A| N/A|
+| ++Fortnite+Release-8.11-CL-5442615 | [Download](https://drive.google.com/uc?export=download&id=1UTLOjPHUJqadMkzL9MP7TMz1LfzV0THM&name=Fortnite_8.11.0.ipa)  | [Download](https://epicgames-download1.akamaized.net/Builds/Fortnite/Content/CloudDir/l7PDVBfvBluypKfudEi11y5jVGhl1w.manifest) | N/A| N/A| N/A|
+| ++Fortnite+Release-8.11-CL-5496935 | [Download](https://drive.google.com/uc?export=download&id=1SSATRSQ77BRAyFrUa47eUZqOmOMQZ2Nr&name=Fortnite_8.11.1.ipa)  | [Download](https://epicgames-download1.akamaized.net/Builds/Fortnite/Content/CloudDir/bm9NOkkAqTj-reRX-UCVwsIqBM8oFA.manifest) | N/A| N/A| N/A|
+| ++Fortnite+Release-8.20-CL-5554611 | [Download](https://drive.google.com/uc?export=download&id=1HDYcaSvoOM2TJ1yIdRiJo-eRyKXcucAR&name=Fortnite_8.20.0.ipa)  | [Download](https://epicgames-download1.akamaized.net/Builds/Fortnite/Content/CloudDir/DaqxvNmUAJ1CDCWb20WK4IbHYa7Arg.manifest) | N/A| N/A| N/A|
+| ++Fortnite+Release-8.20-CL-5629478 | [Download](https://drive.google.com/uc?export=download&id=1G7luvkf8lJjqqx4WyJj6jBy6L6dvO-Xb&name=Fortnite_8.20.1.ipa)  | [Download](https://epicgames-download1.akamaized.net/Builds/Fortnite/Content/CloudDir/ZhwYUj5mx-arQmYnEES59mW3b4Enwg.manifest) | N/A| N/A| N/A|
+| ++Fortnite+Release-8.20-CL-5686049 | [Download](https://drive.google.com/uc?export=download&id=1V_B7GKWOorEb5Vf1-mLVNX8GtzvJ2K2t&name=Fortnite_8.20.2.ipa)  | [Download](https://epicgames-download1.akamaized.net/Builds/Fortnite/Content/CloudDir/HswjJdTmj7FXg68j7ki5acnW-FFSpA.manifest) | N/A| N/A| N/A|
+| ++Fortnite+Release-8.30-CL-5806807 | [Download](https://drive.google.com/uc?export=download&id=10oTTTdZq9w7eAwEl1VXf23rzOkrNWc-m&name=Fortnite_8.30.0.ipa)  | [Download](https://epicgames-download1.akamaized.net/Builds/Fortnite/Content/CloudDir/3iMqFji9SC74JKSZ0U2w3X8CrrF53Q.manifest) | N/A| N/A| N/A|
+| ++Fortnite+Release-8.30-CL-5823152 | [Download](https://drive.google.com/uc?export=download&id=1GOXg9TGmdoMGCImFMe0kKcUquz6hF9Gq&name=Fortnite_8.30.1.ipa)  | [Download](https://epicgames-download1.akamaized.net/Builds/Fortnite/Content/CloudDir/KJIbbj436B0ni393L0uvBpAOFLKTog.manifest) | N/A| N/A| N/A|
+| ++Fortnite+Release-8.30-CL-5831510 | [Download](https://drive.google.com/uc?export=download&id=149Zii8wMfpMcvtjh9c5_T8PxHStrE_QR&name=Fortnite_8.30.2.ipa)  | [Download](https://epicgames-download1.akamaized.net/Builds/Fortnite/Content/CloudDir/NNu_6iNu2F1jxVC4dki1H6fP0-t3dw.manifest) | N/A| N/A| N/A|
+| ++Fortnite+Release-8.40-CL-5902309 | [Download](https://drive.google.com/uc?export=download&id=19ppqW8KZfs6GB9UIvLdKZqJPFlZjH2m-&name=Fortnite_8.40.0.ipa)  | [Download](https://epicgames-download1.akamaized.net/Builds/Fortnite/Content/CloudDir/tZsn6cKm3vNBE0y6uUiSU6LJhJ2qsg.manifest) | N/A| N/A| N/A|
+| ++Fortnite+Release-8.40-CL-5959167 | [Download](https://drive.google.com/uc?export=download&id=1IHsguhWg1r0OEhBnb5RBPdy5CAOxa8nj&name=Fortnite_8.40.1.ipa)  | [Download](https://epicgames-download1.akamaized.net/Builds/Fortnite/Content/CloudDir/bm_y6RGUQkucuymhuUeMbfUn1KoQZg.manifest) | N/A| N/A| N/A|
+| ++Fortnite+Release-8.50-CL-6062700 | [Download](https://drive.google.com/uc?export=download&id=1psEe3veN5G07UuEcJELfo7C1wOaEerar&name=Fortnite_8.50.0.ipa)  | [Download](https://epicgames-download1.akamaized.net/Builds/Fortnite/Content/CloudDir/J_IlojyedW7LGdAZx0KmAjEP95GM8Q.manifest) | N/A| N/A| N/A|
+| ++Fortnite+Release-8.51-CL-6165369 | [Download](https://drive.google.com/uc?export=download&id=1-uid3IgovZbLnijnLhJHIPtszZHIDszb&name=Fortnite_8.51.0.ipa)  | [Download](https://epicgames-download1.akamaized.net/Builds/Fortnite/Content/CloudDir/QLUgLojvXILwGRoRuk2SnCzNdCEhgg.manifest) | N/A| N/A| N/A|
 # season 9
 | Build name🔖 | download installer📝 | download manifest📋 | download build (.rar)📦 | apk modded for SP👤 | apk modded for MP👥 |
 |-----------|-----------|-----------|-----------|-----------|-----------|
@@ -218,9 +218,6 @@ This version have the same ID but are differents...
 | Fortnite+Release-13.30.0-CL- | [Download](https://drive.google.com/uc?export=download&id=1MaJMiYNcBcyQFmFo6rgQCawfxYwv-HyH&name=Fortnite_13.30.0.ipa)  | N/A | N/A| N/A| N/A|
 | Fortnite+Release-13.40.0-CL- | [Download](https://drive.google.com/uc?export=download&id=1Og8f4cdozxe04gYlOJlg3zF7uDlEfuRH&name=Fortnite_13.40.0.ipa)  | N/A | N/A| N/A| N/A|
 | Fortnite+Release-13.40.1-CL- | [Download](https://drive.google.com/uc?export=download&id=1gnZr2AHpAPwNQasG8CKUSyET4zS7L8TI&name=Fortnite_13.40.1.ipa)  | N/A | N/A| N/A| N/A|
-
-# License
-This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
 
 <!--# season 3
 | Build name🔖 | download installer📝 | download manifest📋 | download build (.rar)📦 | apk modded for SP👤 | apk modded for MP👥 |
