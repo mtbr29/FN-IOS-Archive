@@ -1,40 +1,67 @@
-# Fortnite IOS Archive
-**All credits goes to Epic Games, Inc. <br> This repo is not **affiliated with, authorized, endorsed, or sponsored by Epic Games**, Inc., Fortnite, or any related trademarks.**
+
+# 🎮 Fortnite iOS Archive
+
+> **Disclaimer**: This project is **not affiliated with, endorsed, authorized, or sponsored by Epic Games, Inc.** All copyrights and trademarks related to Fortnite are the property of Epic Games, Inc.
+
+![Fortnite iOS Builds](https://github.com/user-attachments/assets/689fdea4-ec8b-4aeb-b9f7-02d1f37d235b)
+
+Welcome to the **largest Fortnite iOS archive** on GitHub.
+This repository preserves and documents **Fortnite iOS builds**, including:
+
+* 🗂️ Installer files
+* 📜 Manifests (for pre-Season 10 builds)
+* ⚙️ Modded versions for **Single Player (SP)** or **Multiplayer (MP)** usage
+
+---
+
+## 🔧 Archive Status
+
+Most `.rar` build files will be uploaded **once I have access to stable Wi-Fi**.
+They are already backed up on my PC, so **if Epic disables the manifests**, many seasons will still be preserved here.
+
+> A full tutorial on how to find a manifest or install builds (Windows 10/11 only) is coming soon.
+
+---
+
+## 🗂️ Build Types
+
+| Abbreviation | Meaning                               |
+| ------------ | ------------------------------------- |
+| **SP**       | Single Player modded builds           |
+| **MP**       | Multiplayer (console included) builds |
+| **N/A**      | Not available yet                     |
+
+---
+
+## ⭐ Support the Project
+
+If this project helps you, **consider dropping a star** on the repo — it really helps 🙏
+
+---
+
+## 🧠 Credits
+
+Massive respect to the amazing contributors who made this archive possible:
+
+* 🎮 **Builds before Season 14** – [lxcalized](https://discord.com/users/698647000597528688)
+* 📁 **Most legacy builds** – [crunnie](https://drive.google.com/drive/folders/1-AE3T3YKpp5-KVZ-w38PtFm19Hj4G0pc)
+
+  > *Rest in peace, crunnie. You'll never be forgotten.*
+* 📦 **Modern builds (Season 31+)** – [Repressoh](https://github.com/Repressoh/Fortnite-iOS-Archive?tab=readme-ov-file)
+* 🛠️ **Modded SP/MP builds** – [Mineluke](https://drive.google.com/drive/folders/1XgsoBvCe-sZ3T3TpCrg3ALqGbawXnY7h)
+* 🔍 **Manifest + download methods** – [tevtongermany](https://discord.com/users/487615901613686784) & [Th3dryZ69\_](https://discord.com/users/382930404249698304)
+
+---
+
+## 📌 Notes
+
+* This archive is intended for **educational and preservation purposes only**.
+* No piracy is supported or encouraged — you must own the game to use any of these builds legitimately.
+
+---
 
 
 
-
-
-
-
-
-
-![fnbuilds](https://github.com/user-attachments/assets/689fdea4-ec8b-4aeb-b9f7-02d1f37d235b)
-
-The biggest Fortnite archive about IOS. here are archived the installers, the manifest (seasons before s10), sometimes a modded version for SinglePlayer / MultiPlayer.
-
-The builds in .rar will be uploaded soon when i will have a good wifi. they are on py pc so if epic games kill the manifest i have most season downloaded.
-
-If you want to find a manifest / download a season (win 10/11 **only**): [tutorial soon]
-
-### ✨drop a star pls✨
-
-SP = SinglePlayer Modifieds IPAs
-
-MP = MultiPlayer Console includeds IPAs
-
-N/A = Not avaible
-
-# credits:
-- all builds before s14 | [lxcalized](https://discord.com/users/698647000597528688) 
-- [crunnie](https://drive.google.com/drive/folders/1-AE3T3YKpp5-KVZ-w38PtFm19Hj4G0pc) | most builds **rest in peace man, we will never forget you**
-- [Repressoh](https://github.com/Repressoh/Fortnite-iOS-Archive?tab=readme-ov-file) | s31+ builds
-- [Mineluke](https://drive.google.com/drive/folders/1XgsoBvCe-sZ3T3TpCrg3ALqGbawXnY7h) | modded builds for SP and MP
-- [tevtongermany](https://discord.com/users/487615901613686784) & [Th3dryZ69_](https://discord.com/users/382930404249698304) | manifest and build download method
-
-
-
-# New versions:
 # season 3
 | Build name🔖 | download installer📝 | download manifest📋 | download build (.rar)📦 | apk modded for SP👤 | apk modded for MP👥 |
 |-----------|-----------|-----------|-----------|-----------|-----------|
