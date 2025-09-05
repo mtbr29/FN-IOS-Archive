@@ -1,5 +1,5 @@
 # Fortnite IOS Archive
-# All credits goes to Epic Games, Inc. <br> This repo is not **affiliated with, authorized, endorsed, or sponsored by Epic Games**, Inc., Fortnite, or any related trademarks.
+**All credits goes to Epic Games, Inc. <br> This repo is not **affiliated with, authorized, endorsed, or sponsored by Epic Games**, Inc., Fortnite, or any related trademarks.**
 
 
 
