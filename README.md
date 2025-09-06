@@ -19,7 +19,7 @@ This repository preserves and documents **Fortnite iOS builds**, including:
 Most `.rar` build files will be uploaded **once I have access to stable Wi-Fi**.
 They are already backed up on my PC, so **if Epic disables the manifests**, many seasons will still be preserved here.
 
-> A full tutorial on how to find a manifest or install builds (Windows 10/11 only) is coming soon.
+> A full tutorial on how to find a manifest or install builds (Windows 10/11 only): https://youtu.be/dWUB7Oq9BNQ.
 
 ---
 
