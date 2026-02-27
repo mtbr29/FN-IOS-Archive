@@ -56,7 +56,7 @@ Massive respect to the amazing contributors who made this archive possible:
 ## 📌 Notes
 
 * This archive is intended for **educational and preservation purposes only**.
-* No piracy is supported or encouraged — you must own the game to use any of these builds legitimately.
+* No piracy is supported or encouraged.
 
 ---
 
